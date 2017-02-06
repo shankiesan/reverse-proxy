@@ -32,6 +32,6 @@ OnHostRule = true
 
 [docker]
 endpoint = "unix:///var/run/docker.sock"
-domain = "example.com"
+domain = "traefik.traefik-test.e82bbb81.svc.dockerapp.io"
 watch = true
 exposedbydefault = false
